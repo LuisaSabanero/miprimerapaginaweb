@@ -1,0 +1,61 @@
+body{
+    background-color: #916731(41, 40, 41, 0.959);
+    color: rgb(129, 118, 94);
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
+/*Así se pone un comentario*/
+
+h1, p{
+    color: #6B4513;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+h3{
+    color: rgb(177, 118, 90);
+    font-family: 'Capriola', sans-serif;
+
+}
+
+/*img{
+    width: 450px;         
+    height: 350px; PARA CAMBIAR EL TAMAÑO DE IMAGENES EN GENERAL 
+}
+*/
+
+.img1{
+    width: 250px;
+    height: 150px;
+    border-style: dashed; /*El lado de tipo de borde se pone como la forma del reloj*/
+    border-width: 5px;
+    border-color: rgb(141, 56, 56);
+    margin-left: 3px;
+    margin-bottom: 8px;
+    margin-top: 15px;
+        padding: 5px;
+    
+}
+
+.img2{
+    width: 250px;
+    height: 150px;
+    border-style: dashed; 
+    border-width: 5px;
+    border-color: rgb(141, 56, 56);
+    margin-left: 3px;
+    margin-bottom: 8px;
+    margin-top: 15px;
+    padding: 5px;
+}
+
+/*Para añadir un ancho y altura a cada imagen se utiliza ese formato*/
+
+footer{
+    background-color: rgb(255, 255, 255);
+}
+
+small, a{
+    background-color: none;
+    color: rgb(207, 113, 113);
+    padding-bottom: 5px;
+}
